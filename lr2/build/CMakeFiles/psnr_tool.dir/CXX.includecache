@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libs/EasyBmp/EasyBMP.h
+iostream
+-
+cmath
+-
+cctype
+-
+cstring
+-
+stdio.h
+-
+cstdio
+-
+EasyBMP_DataStructures.h
+../libs/EasyBmp/EasyBMP_DataStructures.h
+EasyBMP_BMP.h
+../libs/EasyBmp/EasyBMP_BMP.h
+EasyBMP_VariousBMPutilities.h
+../libs/EasyBmp/EasyBMP_VariousBMPutilities.h
+
+../libs/EasyBmp/EasyBMP_BMP.h
+
+../libs/EasyBmp/EasyBMP_DataStructures.h
+
+../libs/EasyBmp/EasyBMP_VariousBMPutilities.h
+
+/home/logerse/Programming/vadim/lr2/src/PsnrTool.cpp
+vector
+-
+cassert
+-
+iostream
+-
+EasyBmp/EasyBMP.h
+-
+

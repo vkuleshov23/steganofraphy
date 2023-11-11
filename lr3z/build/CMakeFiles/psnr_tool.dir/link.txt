@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/psnr_tool.dir/src/PsnrTool.cpp.o CMakeFiles/psnr_tool.dir/libs/EasyBmp/EasyBMP.cpp.o -o psnr_tool 

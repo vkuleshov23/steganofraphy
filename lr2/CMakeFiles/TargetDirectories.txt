@@ -1,0 +1,5 @@
+/home/vadim/Labs/stega/lr2/CMakeFiles/packer.dir
+/home/vadim/Labs/stega/lr2/CMakeFiles/unpacker.dir
+/home/vadim/Labs/stega/lr2/CMakeFiles/psnr_tool.dir
+/home/vadim/Labs/stega/lr2/CMakeFiles/edit_cache.dir
+/home/vadim/Labs/stega/lr2/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/packer.dir/src/Settings.cpp.o CMakeFiles/packer.dir/src/BMPContainer.cpp.o CMakeFiles/packer.dir/libs/EasyBmp/EasyBMP.cpp.o CMakeFiles/packer.dir/src/BMPContainerExtended.cpp.o CMakeFiles/packer.dir/src/Message.cpp.o CMakeFiles/packer.dir/src/main.cpp.o -o packer 
